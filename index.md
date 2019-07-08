@@ -1,3 +1,5 @@
-# Welcome to my blog
+# James Kim
 
-I'm glad you are here. I plan to talk about ...
+**Some** *content* I put on my ~~website.~~
+
+> 7/8/19 Updated my website.
